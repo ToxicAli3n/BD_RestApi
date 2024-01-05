@@ -252,7 +252,7 @@ module.exports = conn;
 
 ~~~js
 const express = require("express");
-const controller = require("../controllers/Role");
+const controller = require("./Role");
 const roleRouter = express.Router();
 
 roleRouter.route("/Role").get(controller.getAllRole).post(controller.createRole);

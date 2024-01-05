@@ -4,66 +4,66 @@
 Postman для тестування працездатності мого API*
 
 ### Запуск сервера
-![](./Screen/Start.png)
+![](test/Screen/Start.png)
 
 ### Тестування для Role
 
 #### Get/Role
 
-![](./Screen/Get.Role1.png)
+![](test/Screen/Get.Role1.png)
 
 #### Get/Role/:id
 
-![](./Screen/Get.Role.id.png)
+![](test/Screen/Get.Role.id.png)
 
 #### Post/Role
 
-![](./Screen/Post.Role.1.png)
+![](test/Screen/Post.Role.1.png)
 
 #### Put/Role
 
-![](./Screen/Put.Role.png)
+![](test/Screen/Put.Role.png)
 
 #### Delete/Role
 
-![](./Screen/Delete.Role.png)
+![](test/Screen/Delete.Role.png)
 
 ### Тестування для User
 
 #### Get/User
 
-![](./Screen/Get.User.1.png)
+![](test/Screen/Get.User.1.png)
 
 #### Get/User/:id
 
-![](./Screen/Get.User.id.png)
+![](test/Screen/Get.User.id.png)
 
 #### Post/User
 
-![](./Screen/Post.User.png)
+![](test/Screen/Post.User.png)
 
 #### Put/User
 
-![](./Screen/Put.User.png)
+![](test/Screen/Put.User.png)
 
 #### Delete/User
 
-![](./Screen/Delete.User.png)
+![](test/Screen/Delete.User.png)
 
 ### Тестування для Quiz
 
 #### Get/Quiz
 
-![](./Screen/Get.Quiz.png)
+![](test/Screen/Get.Quiz.png)
 
 #### Post/Quiz
 
-![](./Screen/Post.Quiz.png)
+![](test/Screen/Post.Quiz.png)
 
 #### Put/Quiz
 
-![](./Screen/Put.Quiz.png)
+![](test/Screen/Put.Quiz.png)
 
 #### Delete/Quiz
 
-![](./Screen/Delete.Quiz.png)
+![](test/Screen/Delete.Quiz.png)
